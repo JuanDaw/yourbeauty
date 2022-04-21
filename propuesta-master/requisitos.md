@@ -8,7 +8,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [1](https://github.com/JuanDaw/yourbeauty/issues/1) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R2**     | **Código fuente**         |
 | --------------: | :------------------- |
@@ -17,7 +21,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [2](https://github.com/JuanDaw/yourbeauty/issues/2) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R3**     | **Estilo del código**         |
 | --------------: | :------------------- |
@@ -26,7 +34,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [3](https://github.com/JuanDaw/yourbeauty/issues/3) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R4**     | **Tres lanzamientos**         |
 | --------------: | :------------------- |
@@ -35,7 +47,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [4](https://github.com/JuanDaw/yourbeauty/issues/4) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R5**     | **README.md**         |
 | --------------: | :------------------- |
@@ -44,7 +60,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [5](https://github.com/JuanDaw/yourbeauty/issues/5) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R6**     | **Documentación**         |
 | --------------: | :------------------- |
@@ -52,8 +72,13 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v3             |
 | **Incidencia**  | [6](https://github.com/JuanDaw/yourbeauty/issues/6) |
+=======
+| **Entrega**     | v1             |
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R7**     | **Incidencias en GitHub**         |
 | --------------: | :------------------- |
@@ -62,7 +87,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [7](https://github.com/JuanDaw/yourbeauty/issues/7) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R8**     | **Etiquetas e hitos**         |
 | --------------: | :------------------- |
@@ -71,7 +100,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [8](https://github.com/JuanDaw/yourbeauty/issues/8) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R9**     | **Rama master**         |
 | --------------: | :------------------- |
@@ -80,7 +113,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [9](https://github.com/JuanDaw/yourbeauty/issues/9) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R10**     | **Gestión del proyecto**         |
 | --------------: | :------------------- |
@@ -89,7 +126,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [10](https://github.com/JuanDaw/yourbeauty/issues/10) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R11**     | **Final de cada iteración**         |
 | --------------: | :------------------- |
@@ -98,7 +139,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [11](https://github.com/JuanDaw/yourbeauty/issues/11) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R12**     | **Validación de formularios**         |
 | --------------: | :------------------- |
@@ -107,7 +152,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [12](https://github.com/JuanDaw/yourbeauty/issues/12) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R13**     | **Gestión de ventanas**         |
 | --------------: | :------------------- |
@@ -116,7 +165,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [13](https://github.com/JuanDaw/yourbeauty/issues/13) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R14**     | **Manejo de eventos**         |
 | --------------: | :------------------- |
@@ -125,7 +178,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [14](https://github.com/JuanDaw/yourbeauty/issues/14) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R15**     | **DOM**         |
 | --------------: | :------------------- |
@@ -134,7 +191,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [15](https://github.com/JuanDaw/yourbeauty/issues/15) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R16**     | **Almacenamiento en el lado del cliente**         |
 | --------------: | :------------------- |
@@ -142,17 +203,30 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v2             |
 | **Incidencia**  | [16](https://github.com/JuanDaw/yourbeauty/issues/16) |
 
 | **R17**     | **jQuery, jQuery UI, AlpineJS**         |
 | --------------: | :------------------- |
 | **Descripción** | Uso de la librería jQuery, jQuery UI, AlpineJS.             |
+=======
+| **Entrega**     | v1             |
+
+
+| **R17**     | **jQuery, jQuery UI**         |
+| --------------: | :------------------- |
+| **Descripción** | Uso de la librería jQuery, jQuery UI.             |
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [17](https://github.com/JuanDaw/yourbeauty/issues/17) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R18**     | **Plugin no trabajado en clase**         |
 | --------------: | :------------------- |
@@ -161,7 +235,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [18](https://github.com/JuanDaw/yourbeauty/issues/18) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R19**     | **Utilización de AJAX**         |
 | --------------: | :------------------- |
@@ -170,7 +248,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [19](https://github.com/JuanDaw/yourbeauty/issues/19) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R20**     | **ECMAScript2015 (ES6)**         |
 | --------------: | :------------------- |
@@ -178,8 +260,13 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v3             |
 | **Incidencia**  | [20](https://github.com/JuanDaw/yourbeauty/issues/20) |
+=======
+| **Entrega**     | v1             |
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R21**     | **PHP**         |
 | --------------: | :------------------- |
@@ -188,16 +275,28 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [21](https://github.com/JuanDaw/yourbeauty/issues/21) |
 
 | **R22**     | **Laravel Framework**         |
 | --------------: | :------------------- |
 | **Descripción** | Usar Laravel Framework versión 8 ó superior.             |
+=======
+
+
+| **R22**     | **Yii2 Framework**         |
+| --------------: | :------------------- |
+| **Descripción** | Usar Yii2 Framework versión 2.0.29 ó superior.             |
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [22](https://github.com/JuanDaw/yourbeauty/issues/22) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R23**     | **PostgreSQL**         |
 | --------------: | :------------------- |
@@ -206,7 +305,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [23](https://github.com/JuanDaw/yourbeauty/issues/23) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R24**     | **Heroku**         |
 | --------------: | :------------------- |
@@ -215,7 +318,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [24](https://github.com/JuanDaw/yourbeauty/issues/24) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R25**     | **Codeception**         |
 | --------------: | :------------------- |
@@ -223,8 +330,13 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v3             |
 | **Incidencia**  | [25](https://github.com/JuanDaw/yourbeauty/issues/25) |
+=======
+| **Entrega**     | v1             |
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R26**     | **Code Climate**         |
 | --------------: | :------------------- |
@@ -232,8 +344,13 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v2             |
 | **Incidencia**  | [26](https://github.com/JuanDaw/yourbeauty/issues/26) |
+=======
+| **Entrega**     | v1             |
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R27**     | **Aplicación escalable**         |
 | --------------: | :------------------- |
@@ -241,8 +358,13 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v2             |
 | **Incidencia**  | [27](https://github.com/JuanDaw/yourbeauty/issues/27) |
+=======
+| **Entrega**     | v1             |
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R28**     | **Tecnología AJAX**         |
 | --------------: | :------------------- |
@@ -251,7 +373,11 @@
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
+<<<<<<< HEAD
 | **Incidencia**  | [28](https://github.com/JuanDaw/yourbeauty/issues/28) |
+=======
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R29**     | **Etiquetas semánticas de HTML5**         |
 | --------------: | :------------------- |
@@ -259,8 +385,13 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v3             |
 | **Incidencia**  | [29](https://github.com/JuanDaw/yourbeauty/issues/29) |
+=======
+| **Entrega**     | v1             |
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R30**     | **Presentación mediante CSS**         |
 | --------------: | :------------------- |
@@ -268,8 +399,13 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v2             |
 | **Incidencia**  | [30](https://github.com/JuanDaw/yourbeauty/issues/30) |
+=======
+| **Entrega**     | v1             |
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R31**     | **Diseño flexible**         |
 | --------------: | :------------------- |
@@ -277,8 +413,13 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v3             |
 | **Incidencia**  | [31](https://github.com/JuanDaw/yourbeauty/issues/31) |
+=======
+| **Entrega**     | v1             |
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R32**     | **Transiciones, transformaciones, animaciones y contenido multimedia**         |
 | --------------: | :------------------- |
@@ -286,6 +427,7 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v3             |
 | **Incidencia**  | [32](https://github.com/JuanDaw/yourbeauty/issues/32) |
 
@@ -297,6 +439,19 @@
 | **Complejidad** | Fácil         |
 | **Entrega**     | v3             |
 | **Incidencia**  | [33](https://github.com/JuanDaw/yourbeauty/issues/33) |
+=======
+| **Entrega**     | v1             |
+
+
+| **R33**     | **Uso de microdatos**         |
+| --------------: | :------------------- |
+| **Descripción** | Uso de microdatos.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R34**     | **Validación HTML5, CSS3 y accesibilidad**         |
 | --------------: | :------------------- |
@@ -304,8 +459,13 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v3             |
 | **Incidencia**  | [34](https://github.com/JuanDaw/yourbeauty/issues/34) |
+=======
+| **Entrega**     | v1             |
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R35**     | **Diseño para varias resoluciones**         |
 | --------------: | :------------------- |
@@ -313,6 +473,7 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v3             |
 | **Incidencia**  | [35](https://github.com/JuanDaw/yourbeauty/issues/35) |
 
@@ -324,6 +485,19 @@
 | **Complejidad** | Fácil         |
 | **Entrega**     | v3             |
 | **Incidencia**  | [36](https://github.com/JuanDaw/yourbeauty/issues/36) |
+=======
+| **Entrega**     | v1             |
+
+
+| **R36**     | **Varios navegadores**         |
+| --------------: | :------------------- |
+| **Descripción** | Comprobar que el diseño es correcto en los siguientes navegadores:  - Internet Explorer. - Chrome. - Mozilla Firefox. - Opera.              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 | **R37**     | **Despliegue en un Host**         |
 | --------------: | :------------------- |
@@ -331,6 +505,7 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Fácil         |
+<<<<<<< HEAD
 | **Entrega**     | v3             |
 | **Incidencia**  | [37](https://github.com/JuanDaw/yourbeauty/issues/37) |
 
@@ -702,10 +877,24 @@
 | **Complejidad** | Media         |
 | **Entrega**     | v3             |
 | **Incidencia**  | [78](https://github.com/JuanDaw/yourbeauty/issues/78) |
+=======
+| **Entrega**     | v1             |
+
+
+| **R38**     | **Despliegue en un servidor local**         |
+| --------------: | :------------------- |
+| **Descripción** | Realizar un despliegue en un servidor local usando y configurando tres máquinas virtuales para:  - Crear un servicio de Nombres de dominio. - Gestionar y administrar el servidor Apache tanto en Windows como Linux:   - Instalar el servidor y configurarlo.   - Configurar directivas.   - Usar directorios virtuales y redireccionamientos.   - Usar diferentes módulos estáticos y dinámicos.   - Usar autenticaciones.   - Usar ficheros de configuración personalizada de directorios.   - Usar HTTPS y certificados Digitales.              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
 
 
 ## Cuadro resumen
 
+<<<<<<< HEAD
 | **Requisito** | **Prioridad** | **Tipo** | **Complejidad** | **Entrega** | **Incidencia** |
 | :------------ | :-----------: | :------: | :-------------: | :---------: | :------------: |
 | (**R1**) Requisitos como incidencias | Mínimo | Técnico | Fácil | v1 | | **Incidencia**  | [1](https://github.com/JuanDaw/yourbeauty/issues/1) |
@@ -786,3 +975,45 @@
 | (**R76**) Pedir información valoración productos | Importante | Funcional | Media | v3 | | **Incidencia**  | [76](https://github.com/JuanDaw/yourbeauty/issues/76) |
 | (**R77**) Pedir información precio  de productos | Importante | Funcional | Media | v3 | | **Incidencia**  | [77](https://github.com/JuanDaw/yourbeauty/issues/77) |
 | (**R78**) Utilizar la ordenación de la API | Importante | Funcional | Media | v3 | | **Incidencia**  | [78](https://github.com/JuanDaw/yourbeauty/issues/78) |
+=======
+| **Requisito** | **Prioridad** | **Tipo** | **Complejidad** | **Entrega** |
+| :------------ | :-----------: | :------: | :-------------: | :---------: |
+| (**R1**) Requisitos como incidencias | Mínimo | Técnico | Fácil | v1 | 
+| (**R2**) Código fuente | Mínimo | Técnico | Fácil | v1 | 
+| (**R3**) Estilo del código | Mínimo | Técnico | Fácil | v1 | 
+| (**R4**) Tres lanzamientos | Mínimo | Técnico | Fácil | v1 | 
+| (**R5**) README.md | Mínimo | Técnico | Fácil | v1 | 
+| (**R6**) Documentación | Mínimo | Técnico | Fácil | v1 | 
+| (**R7**) Incidencias en GitHub | Mínimo | Técnico | Fácil | v1 | 
+| (**R8**) Etiquetas e hitos | Mínimo | Técnico | Fácil | v1 | 
+| (**R9**) Rama master | Mínimo | Técnico | Fácil | v1 | 
+| (**R10**) Gestión del proyecto | Mínimo | Técnico | Fácil | v1 | 
+| (**R11**) Final de cada iteración | Mínimo | Técnico | Fácil | v1 | 
+| (**R12**) Validación de formularios | Mínimo | Técnico | Fácil | v1 | 
+| (**R13**) Gestión de ventanas | Mínimo | Técnico | Fácil | v1 | 
+| (**R14**) Manejo de eventos | Mínimo | Técnico | Fácil | v1 | 
+| (**R15**) DOM | Mínimo | Técnico | Fácil | v1 | 
+| (**R16**) Almacenamiento en el lado del cliente | Mínimo | Técnico | Fácil | v1 | 
+| (**R17**) jQuery, jQuery UI | Mínimo | Técnico | Fácil | v1 | 
+| (**R18**) Plugin no trabajado en clase | Mínimo | Técnico | Fácil | v1 | 
+| (**R19**) Utilización de AJAX | Mínimo | Técnico | Fácil | v1 | 
+| (**R20**) ECMAScript2015 (ES6) | Mínimo | Técnico | Fácil | v1 | 
+| (**R21**) PHP | Mínimo | Técnico | Fácil | v1 | 
+| (**R22**) Yii2 Framework | Mínimo | Técnico | Fácil | v1 | 
+| (**R23**) PostgreSQL | Mínimo | Técnico | Fácil | v1 | 
+| (**R24**) Heroku | Mínimo | Técnico | Fácil | v1 | 
+| (**R25**) Codeception | Mínimo | Técnico | Fácil | v1 | 
+| (**R26**) Code Climate | Mínimo | Técnico | Fácil | v1 | 
+| (**R27**) Aplicación escalable | Mínimo | Técnico | Fácil | v1 | 
+| (**R28**) Tecnología AJAX | Mínimo | Técnico | Fácil | v1 | 
+| (**R29**) Etiquetas semánticas de HTML5 | Mínimo | Técnico | Fácil | v1 | 
+| (**R30**) Presentación mediante CSS | Mínimo | Técnico | Fácil | v1 | 
+| (**R31**) Diseño flexible | Mínimo | Técnico | Fácil | v1 | 
+| (**R32**) Transiciones, transformaciones, animaciones y contenido multimedia | Mínimo | Técnico | Fácil | v1 | 
+| (**R33**) Uso de microdatos | Mínimo | Técnico | Fácil | v1 | 
+| (**R34**) Validación HTML5, CSS3 y accesibilidad | Mínimo | Técnico | Fácil | v1 | 
+| (**R35**) Diseño para varias resoluciones | Mínimo | Técnico | Fácil | v1 | 
+| (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | 
+| (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
+| (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | 
+>>>>>>> 52b2e071c66c1610f45d1de5aba030d92c5d4514
