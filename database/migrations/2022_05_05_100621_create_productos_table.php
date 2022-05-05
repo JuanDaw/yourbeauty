@@ -18,7 +18,7 @@ return new class extends Migration
             $table->string('name');
             $table->text('descripcion');
             $table->foreignId('categoria_id')->constrained('categorias');
-            $table->string('marca')->nullable();
+            $table->string('marca');
             $table->string('link');
             $table->timestamps();
         });
